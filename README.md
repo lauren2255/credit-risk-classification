@@ -1,5 +1,4 @@
-# credit-risk-classification
-
+# Credit Risk Classification
 A model that can identify the creditworthiness of borrowers was created using financial data to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creating the model.
 
 ## Model Creation Process
