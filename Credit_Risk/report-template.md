@@ -10,16 +10,16 @@ In this section, describe the analysis you completed for the machine learning mo
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
-The purpose of the analysis was to develop machine learning models in order to predict loan status based on various factors. The model took data about loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, and total debt in order to predict the loan status, i.e. if the loan is healthy (loan_status = 0), or if the loan is at a high risk of defaulting (loan_status = 1).
+The purpose of the analysis was to develop machine learning models in order to predict loan status based on various factors. The model took data about loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, and total debt in order to predict the loan status, i.e. if the loan is healthy (`loan_status = 0`), or if the loan is at a high risk of defaulting (`loan_status = 1`).
 
 The stages of the machine learning process were as follows:
-    1. Reading in the data
-    2. Splitting the data into labels and features
-    3. Splitting the data into test and train datasets
-    4. Creating a logistic regression model
-    5. Fitting the model with training data
-    6. Creating predictions using the testing feature data
-    7. Generating a confusion matrix and classification report with the predictions to evaluate the model
+1. Reading in the data
+2. Splitting the data into labels and features
+3. Splitting the data into test and train datasets
+4. Creating a logistic regression model
+5. Fitting the model with training data
+6. Creating predictions using the testing feature data
+7. Generating a confusion matrix and classification report with the predictions to evaluate the model
 
 ## Results
 
