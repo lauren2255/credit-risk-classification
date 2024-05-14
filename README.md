@@ -1,5 +1,4 @@
- credit-risk-classification
-A model that can identify the creditworthiness of borrowers was created using financial data in order to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creatin gthe model.
+## A model that can identify the creditworthiness of borrowers was created using financial data in order to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creatin gthe model.
 
 Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
 A model that can identify the creditworthiness of borrowers was created using financial data to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creating the model.
@@ -59,4 +58,4 @@ The results: Using a bulleted list, describe the accuracy score, the precision s
 
 A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 
-This code was authored by Lauren Ables-Torres and edX Bootcamps, LLC.
+## This code was authored by Lauren Ables-Torres and edX Bootcamps, LLC.
