@@ -1,4 +1,5 @@
-## A model that can identify the creditworthiness of borrowers was created using financial data in order to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creatin gthe model.
+## Credit Risk Classification Through Logistic Regression
+A model that can identify the creditworthiness of borrowers was created using financial data in order to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creatin gthe model.
 
 Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
 A model that can identify the creditworthiness of borrowers was created using financial data to predict healthy loans or loans that have a high risk of defaulting. The following specifications were followed in creating the model.
